@@ -22,7 +22,6 @@ do{
 }while( iterator < personas.length)
 
 
-
 while(iterator < personas.length){
     console.log(personas[iterator]);
     iterator++;
